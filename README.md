@@ -5,7 +5,7 @@ This repository houses a Firefox extension that unleashes the power of chatGPT s
 ## Shortcuts
 
 |                      |         Gemini         |          Bing          |
-| :------------------: | :--------------------: | :--------------------: |
+| ------------------   | :--------------------: | :--------------------: |
 |    Open new chat     |      `Ctrl` + `k`      |      `Ctrl` + `k`      |
 |    Toggle sidebar    | `Ctrl` + `Shift` + `S` | `Ctrl` + `Shift` + `S` |
 |   Focus chat input   |    `Shift` + `Esc`     |    `Shift` + `Esc`     |
