@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "ai-shortcuts",
+  "version": "1.0",
+  "description": "Use chatGPT shortcuts on Gemini and Bing Copilot.",
+  "icons": {
+    "48": "icon-48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/*", "https://www.bing.com/*"],
+      "js": ["borderify.js"]
+    }
+  ]
+}
