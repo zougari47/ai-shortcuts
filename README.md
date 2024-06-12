@@ -1,4 +1,4 @@
-# Firefox Extension for chatGPT Shortcuts (Gemini & Bing Copilot)
+# Firefox extension: ChatGPT shortcuts for Gemini & Bing Copilot
 
 This repository houses a Firefox extension that unleashes the power of chatGPT shortcuts within Gemini and Bing Copilot.
 
