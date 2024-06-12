@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://gemini.google.com/*", "https://www.bing.com/*"],
-      "js": ["borderify.js"]
+      "js": ["index.js"]
     }
   ]
 }
