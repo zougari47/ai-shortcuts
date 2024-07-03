@@ -1,4 +1,4 @@
-# Firefox extension: ChatGPT shortcuts for Gemini & Bing Copilot
+<h1 align="center">Firefox extension: ChatGPT shortcuts for Gemini & Bing Copilot</h1>
 
 <div align="center">
 <img src="./icons/128.png" width="200"  align="center" />
